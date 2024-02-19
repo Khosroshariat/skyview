@@ -33,7 +33,7 @@ const Navbar = () => {
         </div>
         <div className="list-main">
           <a
-            href="https://github.com/Khosroshariat/madam"
+            href="https://github.com/Khosroshariat/skyview"
             target="_blank"
             rel="noreferrer"
           >
@@ -77,7 +77,7 @@ const Navbar = () => {
         </span>
         <a
           className="link"
-          href="https://github.com/Khosroshariat/madam"
+          href="https://github.com/Khosroshariat/skyview"
           target="_blank"
           rel="noreferrer"
         >
