@@ -28,7 +28,7 @@ const Navbar = () => {
                 d="M17.25 6.75 22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3-4.5 16.5"
               />
             </svg>
-            <span className="nav-logo">Madam</span>
+            <span className="nav-logo">SkyView</span>
           </a>
         </div>
         <div className="list-main">
@@ -40,7 +40,7 @@ const Navbar = () => {
             <Svgs />
             Git Repo
           </a>
-          <a href="" target="_blank" rel="noreferrer">
+          <a href="https://www.khosro.ca/" target="_blank" rel="noreferrer">
             <Svgs />
             Portfolio
           </a>
@@ -84,7 +84,7 @@ const Navbar = () => {
           <Svgs />
           Git Repo
         </a>
-        <a className="link" href="" target="_blank" rel="noreferrer">
+        <a className="link" href="https://www.khosro.ca/" target="_blank" rel="noreferrer">
           <Svgs />
           Portfolio
         </a>
